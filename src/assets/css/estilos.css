@@ -1,0 +1,13 @@
+h1{
+    background-color: greenyellow;
+}
+h1:hover{
+    background-color: blueviolet;
+}
+p{
+    color: fuchsia;
+}
+img{
+    height: 60px;
+    width: 60px;
+}
